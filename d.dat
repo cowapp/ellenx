@@ -1,1 +1,1 @@
-[{"name":"api","host":"vpnis.lol","port":443,"scheme":"wss"}]
+[{"name":"api","host":"vpnis.lol","port":443,"scheme":"wss"},{"name":"api","host":"127.0.0.1","port":12321,"scheme":"wss"}]
